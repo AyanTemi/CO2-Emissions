@@ -1,5 +1,5 @@
 # CO2-Emissions
-WTFC'23 Data Science track collaborative mini project
+WTFC'23 Data Science track collaborative mini project with Sonia Anthony
 
 ## 📖 Introduction
 Carbon dioxide (CO2) is the primary greenhouse gas emitted through human activities. A typical passenger vehicle emits about 4.6 metric tons of carbon dioxide per year. This number can vary based on a vehicle’s fuel, fuel economy,  number of miles driven per year and other features. 
