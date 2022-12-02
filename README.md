@@ -30,3 +30,33 @@ The features in the dataset are:
 - "Fuel Consumption Comb (L/100 km)" - Combined city/highway (55%/45%) fuel consumption in liters per 100 km (L/100 km).
 
 - "CO2 Emissions(g/km)" - The tailpipe carbon dioxide emissions in grams per kilometer for combined city and highway driving.
+
+
+## Research Questions
+
+1. What is the median engine size in liters?
+2. What is the average fuel consumption for regular gasoline (Fuel Type = X), premium gasoline (Z), ethanol (E), and diesel (D)?  
+3. What is the correlation between fuel consumption and CO2 emissions?
+4. Which vehicle class has lower average CO2 emissions, 'SUV - SMALL' or 'MID-SIZE'? 
+5. What are the average CO2 emissions for all vehicles? For vehicles with an engine size of 2.0 liters or smaller?
+6. What are vehicle Make, Model and Vehicle class with the highest and lowest CO2 emission.
+
+
+## ✅ Recommendations
+
+- Vehicles with smaller engine size, smaller cylinders, AM6 and AV6 transmissions and less fuel consumptions should be used more often. These vehicles are highly efficient and minimise carbon footprint. 
+
+- Production of vehicles with big engine sizes, large cylinders, higher fuel consumptions and transmissions that emit more CO² should be regulated and their purchases should come at a high cost. This would minimise purchase to a few thereby ensuring CO² emission rate is low.
+
+- Regular gasoline should be made more affordable.
+
+- Tax advantages for other fuel types should be removed. 
+
+- Alternative fuels e.g renewable fuels, electricity should be encouraged.
+
+- Use of public transportation such as buses, trams, trains should be 
+encouraged through discounts and fare subsidies. This would ensure that less CO² is emitted as there would be less use of vehicles by individuals.
+
+- Individuals should go for fuel efficient vehicles.
+
+- Car manufacturers especially Bugatti makers should work towards reducing the carbon emitted by the different models they manufacture.
