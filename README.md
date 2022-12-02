@@ -10,7 +10,7 @@ The aim of this study is to draft recommendations for guidelines on CO2 emission
 
 ## 💾 Dataset
 The dataset containing seven years of CO2 emissions details for Canadian vehicles gotten from the Government of Canada's open [data](https://open.canada.ca/data/en/dataset98f1a129-f628-4ce4-b24d-6f16bf24dd64#wb-auto-6)
-was provided.
+was used.
 
 The features in the dataset are:
 - "Make" - The company that manufactures the vehicle.
