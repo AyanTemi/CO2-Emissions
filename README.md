@@ -42,6 +42,26 @@ The features in the dataset are:
 6. What are vehicle Make, Model and Vehicle class with the highest and lowest CO2 emission.
 
 
+## 👀💹 INSIGHTS
+
+- Most vehicles consume about 7 - 15 L/100Km
+- The more fuel a vehicle consumes, the more CO² it emits.
+
+- Distribution of engine size is right skewed and the smaller an engine size, the less CO² it emits.
+
+- Most vehicles use X fuel (Regular gasoline) and it has the lowest CO² emission rate.
+
+- Z fuel (Premium gasoline) has the highest CO² emission rate.
+
+- Vehicles with smaller cylinders have low CO² emission rates.
+
+- Based on transmission, Automatic vehicles with 4 gears emit more CO² than Automatic Manual with 6 gears.
+
+- AM6 and AV6 tend to have low CO² emissions while AM7, A6 and A7 have the highest emission rates.
+
+- The Make/Model/Vehicle with the lowest emission rate is Hyundai, Ioniq Blue, Fullsize AM6 while the Make/Model/Vehicle with the highest emission rate is Bugatti, Chiron, Two-seater AM7.
+
+
 ## ✅ Recommendations
 
 - Vehicles with smaller engine size, smaller cylinders, AM6 and AV6 transmissions and less fuel consumptions should be used more often. These vehicles are highly efficient and minimise carbon footprint. 
